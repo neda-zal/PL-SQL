@@ -1,0 +1,14 @@
+1.
+a) The value of v_weight at position 1 is: 2
+b) The value of v_new_locn at position 1 is: Western Europe
+c) The value of v_weight at position 2 is 601
+d) The value of v_message at position 2 is: Product 10012 is in stock
+e) The value of v_new_locn at position 2 is: Error identifier 'V_NEW_LOCN' is declared in inner block
+
+2.
+a) The value of v_customer in the nested block is: 201
+b) The value of v_name in the nested block is: Unisports
+c) The value of v_credit_rating in the nested block is: GOOD
+d) The value of v_customer in the main block is: Womansport
+e) The value of v_name in the main block is: Error, 'v_name' is declared in the nested block
+f) The value of v_credit_rating in the main block is: GOOD
